@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/moner-vetore-meghla/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Moner Vetore Meghla](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moner-vetore-meghla/) |
+| **Get License** | [Obtain a Music License for Moner Vetore Meghla](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/moner-vetore-meghla/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার রাতে তুমি এলে আমার মনের কাছে
+> বুকের ভেতর আগুন জ্বলে একলা নীরব মাঝে.. নীরব মাঝে..
+> ছায়ার মতো মিশে আছো আমার প্রতি শ্বাসে
+> তোমার ছোঁয়ায় অচিন নেশা আমার চোখে ভাসে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
