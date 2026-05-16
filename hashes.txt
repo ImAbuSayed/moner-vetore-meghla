@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Moner Vetore Meghla
+
+This log tracks the cryptographic history and versioning for the song **Moner Vetore Meghla** (moner-vetore-meghla).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T08:00:29.224555 | `v1` | `4cc03ca4dd2e0f6944d1405968837506e530e873094a66ce06e8d0a4e69a8aff` | `6aa16940b0974a3ea20a0e1b013be70050c758bc73196191270b82f54f56f193` | `2026-05-16_moner-vetore-meghla-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
